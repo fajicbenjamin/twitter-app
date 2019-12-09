@@ -8,7 +8,7 @@ It is Laravel Mix web application that uses Twitter API.
 Using [atymic/twitter](https://github.com/atymic/twitter) for handling Twitter API.
 
 
-###Setup
+### Setup
 
 - Register your application at https://developer.twitter.com/apps
 - Set callback url for your Twitter app to lead to your callback function from TwitterController (i.e. http://twitter-app.test/callback)
@@ -33,7 +33,7 @@ and build app
 npm run dev
 ```
 
-###Log
+### Log
 
 Things that are done so far:
 - login (oauth)
